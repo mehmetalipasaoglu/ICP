@@ -50,3 +50,13 @@ Bu proje, bir telefon rehberi ve mesajlaşma sistemi sağlar. Telefon rehberinde
   - **Dönüş**: Mesaj geçmişi varsa `Message`, aksi takdirde `null`.
     
 ![ss](https://github.com/user-attachments/assets/04fbc720-51b2-40e3-8c4d-f331d33c52a1)
+
+# Diğer Çalışmalarım
+
+  ### Rapid API ile Metin Özetleme Aracı
+  -https://github.com/mehmetalipasaoglu/ai_Summarize
+  -https://ai-summarize-seven.vercel.app/
+  
+  ### Temel bir E-ticaret klonu, Google Cloud ile hesap girişi, Ürün ekleme ve MongoDB' de dedolama
+  -https://github.com/mehmetalipasaoglu/e-commerce
+  -https://e-commerce-gamma-rouge.vercel.app/
