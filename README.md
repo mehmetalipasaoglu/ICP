@@ -49,4 +49,4 @@ Bu proje, bir telefon rehberi ve mesajlaşma sistemi sağlar. Telefon rehberinde
   - Belirli bir numaraya ait mesaj geçmişini getirir.
   - **Dönüş**: Mesaj geçmişi varsa `Message`, aksi takdirde `null`.
     
-![Motoko Playground SS](https://github.com/user-attachments/assets/f939ea0e-9c8f-4653-a57d-c4488499cfd2)
+![ss](https://github.com/user-attachments/assets/04fbc720-51b2-40e3-8c4d-f331d33c52a1)
